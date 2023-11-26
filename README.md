@@ -15,5 +15,5 @@ Dataset Link: https://www.kaggle.com/datasets/neerajkld/realtor-real-estate-usa
 The model's performance is evaluated based on various metrics, including Mean Absolute Error (MAE) and Mean Squared Error (MSE).
 
 # Results #
-The trained model achieves impressive results, as indicated by the evaluation metrics. The model was able to achieve predictions that were within $17,900 of the actual home prices. In the future, I would like to improve this, with the end goal being predictions that are within $10,000 of the actual home prices.
+The trained model achieves impressive results, as indicated by the evaluation metrics. The model was able to achieve predictions that were within $17,900 of the actual home prices. In the future, I would like to improve this, with the end goal being predictions that are within $1,000 of the actual home prices.
 
